@@ -22,10 +22,9 @@ class CreateRoom extends Component {
      }
   }
    async componentDidMount() {
-    const myStateNumGet = await AsyncStorage.getItem('rooms');
-    console.log(myStateNumGet)
-    if (myStateNumGet) {
-      this.setState({ list: JSON.parse(myStateNumGet) });
+    const roomslist = await AsyncStorage.getItem('rooms');
+    if (roomslist) {
+      this.setState({ list: JSON.parse(roomslist) });
     } else {
       this.setState({ list: [] });
     }
