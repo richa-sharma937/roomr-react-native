@@ -108,22 +108,7 @@ export default class SearchRoomerList extends Component {
                 placeholder="search for a person"
             />
             <Image source={require('../images/search.png')} style={[styles.ImageStyle,{}]}/>
-            {/* <View style={{flex:0.8, alignItems:'flex-start', justifyContent:'center' }}>
-            <SearchInput 
-                onChangeText={(term) => { this.searchUpdated(term) }} 
-                style={styles.searchInput}
-                placeholder="search for a person"
-            />
-            </View>
-
-            <View style={{flex:0.2, justifyContent:'center' }}>
-                <Image source={require('../images/search.png')} 
-                style={{ position: 'relative', height: 25, width: 25}} />
-            </View>  */}
-        
-
-
-
+          
         </View>
 
         <View style={{flex:0.8}}> 
