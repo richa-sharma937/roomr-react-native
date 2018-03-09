@@ -1,5 +1,9 @@
 [
     {
+        "merged": "/home/richas/ReactNative/roomt/roomr-react-native/android/app/build/intermediates/res/merged/debug/layout-v16/notification_template_custom_big.xml",
+        "source": "/home/richas/ReactNative/roomt/roomr-react-native/android/app/build/intermediates/exploded-aar/com.android.support/support-compat/26.0.1/res/layout-v16/notification_template_custom_big.xml"
+    },
+    {
         "merged": "/home/richas/ReactNative/Roomr/android/app/build/intermediates/res/merged/debug/layout-v16/notification_template_custom_big.xml",
         "source": "/home/richas/ReactNative/Roomr/android/app/build/intermediates/exploded-aar/com.android.support/support-compat/26.0.1/res/layout-v16/notification_template_custom_big.xml"
     }

@@ -3,48 +3,30 @@
 
     <item
         is-multidex="false"
-        jar="/home/richas/ReactNative/Roomr/android/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/23.4.0/jars/classes.jar"
+        jar="/home/richas/ReactNative/roomt/roomr-react-native/android/app/build/intermediates/exploded-aar/com.github.react-native-community/cameraview/d5d9b0d925494ef451ce3eef3fdf14cc874d9baa/jars/classes.jar"
         jumboMode="false"
         optimize="true"
         revision="23.0.1"
-        sha1="c2c594cace5d83a3227b2b6e658ecbfd586d3ed9">
-        <dex dex="/home/richas/ReactNative/Roomr/android/app/build/intermediates/pre-dexed/debug/com.android.support-support-vector-drawable-23.4.0_51ff3242aa80112276b12c26082746e127c9c82c.jar" />
+        sha1="b4c16f9d50f6e5b420e03126c296c7ca08ad43f8">
+        <dex dex="/home/richas/ReactNative/roomt/roomr-react-native/android/app/build/intermediates/pre-dexed/debug/com.github.react-native-community-cameraview-d5d9b0d925494ef451ce3eef3fdf14cc874d9baa_6a6cebe117b3528fb5dd47470b0841e573fa747a.jar" />
     </item>
     <item
         is-multidex="false"
-        jar="/home/richas/ReactNative/Roomr/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline/1.3.0/jars/classes.jar"
+        jar="/home/richas/ReactNative/roomt/roomr-react-native/android/app/build/intermediates/exploded-aar/com.android.support/support-compat/26.0.1/jars/classes.jar"
         jumboMode="false"
         optimize="true"
         revision="23.0.1"
-        sha1="48c7f54c2515a2312d3a4481d10c43fbb807f3af">
-        <dex dex="/home/richas/ReactNative/Roomr/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-imagepipeline-1.3.0_e0d8b146200f6ec31e93f8e6edc562ee01c56bc5.jar" />
+        sha1="22c673e65215e0764add61e3102946de895439e4">
+        <dex dex="/home/richas/ReactNative/roomt/roomr-react-native/android/app/build/intermediates/pre-dexed/debug/com.android.support-support-compat-26.0.1_d872ce61e7c91218e858638c5c29ea35eebd80e1.jar" />
     </item>
     <item
         is-multidex="false"
-        jar="/home/richas/ReactNative/Roomr/android/app/build/intermediates/exploded-aar/com.android.support/support-fragment/26.0.1/jars/classes.jar"
+        jar="/home/richas/ReactNative/roomt/roomr-react-native/android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-vision/10.2.0/jars/classes.jar"
         jumboMode="false"
         optimize="true"
         revision="23.0.1"
-        sha1="dff4d8f88fe2c0e57306e6981fd9b90caeead7e3">
-        <dex dex="/home/richas/ReactNative/Roomr/android/app/build/intermediates/pre-dexed/debug/com.android.support-support-fragment-26.0.1_506598f77b70ff3d2291c534b2b8181925422cb2.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/home/richas/ReactNative/Roomr/android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/10.2.0/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="23.0.1"
-        sha1="1ac56e5801e986583cbe27f2cce57f626cc7ff93">
-        <dex dex="/home/richas/ReactNative/Roomr/android/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-basement-10.2.0_aff4fbab9c8ba82b5641c1a12698d718ffe8dfb6.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/home/richas/ReactNative/Roomr/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.53.3/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="23.0.1"
-        sha1="71e22619df25643022a7f7281461ef5e926141be">
-        <dex dex="/home/richas/ReactNative/Roomr/android/app/build/intermediates/pre-dexed/debug/com.facebook.react-react-native-0.53.3_30ae696fba88391483194253bfe8e62dc014e2bb.jar" />
+        sha1="444f9de23145e8caba7bf1c1772acad142ea6013">
+        <dex dex="/home/richas/ReactNative/roomt/roomr-react-native/android/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-vision-10.2.0_dbeabeaf92f439bcc689e895abec165b21c2322e.jar" />
     </item>
     <item
         is-multidex="false"
@@ -53,43 +35,97 @@
         optimize="true"
         revision="23.0.1"
         sha1="69edde9fc4b01c9fd51d25b83428837478c27254">
-        <dex dex="/home/richas/ReactNative/Roomr/android/app/build/intermediates/pre-dexed/debug/okhttp-3.6.0_510c7c58fea213fef181928151925b0e24b93481.jar" />
+        <dex dex="/home/richas/ReactNative/roomt/roomr-react-native/android/app/build/intermediates/pre-dexed/debug/okhttp-3.6.0_510c7c58fea213fef181928151925b0e24b93481.jar" />
     </item>
     <item
         is-multidex="false"
-        jar="/home/richas/ReactNative/Roomr/android/app/build/intermediates/exploded-aar/com.facebook.fresco/fresco/1.3.0/jars/classes.jar"
+        jar="/home/richas/ReactNative/roomt/roomr-react-native/android/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/23.4.0/jars/classes.jar"
         jumboMode="false"
         optimize="true"
         revision="23.0.1"
-        sha1="fe85b87215e405f5917d40ae4960488ac9224b74">
-        <dex dex="/home/richas/ReactNative/Roomr/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-fresco-1.3.0_2a522b26692aadf6af441b393b1db20de6d1cbc9.jar" />
+        sha1="de4db3785756bfb0915a9f59a9b3f2fea7407be4">
+        <dex dex="/home/richas/ReactNative/roomt/roomr-react-native/android/app/build/intermediates/pre-dexed/debug/com.android.support-animated-vector-drawable-23.4.0_1454f50d58cf02b15af5505aeb41963d0c9164b9.jar" />
     </item>
     <item
         is-multidex="false"
-        jar="/home/richas/ReactNative/Roomr/android/app/build/intermediates/exploded-aar/com.android.support/exifinterface/28.0.0-alpha1/jars/classes.jar"
+        jar="/home/richas/ReactNative/roomt/roomr-react-native/android/app/build/intermediates/exploded-aar/com.facebook.soloader/soloader/0.1.0/jars/classes.jar"
         jumboMode="false"
         optimize="true"
         revision="23.0.1"
-        sha1="76de56b9d548911f48a6b2684adbbb8d46fdd0ce">
-        <dex dex="/home/richas/ReactNative/Roomr/android/app/build/intermediates/pre-dexed/debug/com.android.support-exifinterface-28.0.0-alpha1_6b22e8b63a87e25f5ec497b5d03a259f54d980f8.jar" />
+        sha1="8f615bca00639150c9eb6175d4b5471193f70794">
+        <dex dex="/home/richas/ReactNative/roomt/roomr-react-native/android/app/build/intermediates/pre-dexed/debug/com.facebook.soloader-soloader-0.1.0_2b5723c63e11fe2b68b7b3f41f2f9eaa5c4fdaeb.jar" />
     </item>
     <item
         is-multidex="false"
-        jar="/home/richas/ReactNative/Roomr/android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/10.2.0/jars/classes.jar"
+        jar="/home/richas/ReactNative/roomt/roomr-react-native/android/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/26.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="d095503f29a8dedc55b9326ed97a5902a1527ab9">
+        <dex dex="/home/richas/ReactNative/roomt/roomr-react-native/android/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-utils-26.0.1_c3da11c52c8f3c93622a5d486ac690ad2cbf1f2e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/richas/ReactNative/roomt/roomr-react-native/android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/10.2.0/jars/classes.jar"
         jumboMode="false"
         optimize="true"
         revision="23.0.1"
         sha1="3d13e510077b35fe8e49930a627dd849ad5da0dc">
-        <dex dex="/home/richas/ReactNative/Roomr/android/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-base-10.2.0_87dffb5b581f549a8bcb7d6f9174607618b0ce4b.jar" />
+        <dex dex="/home/richas/ReactNative/roomt/roomr-react-native/android/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-base-10.2.0_2a213a077bf5705f890238cd64f2f989ffce7787.jar" />
     </item>
     <item
         is-multidex="false"
-        jar="/home/richas/ReactNative/Roomr/android/app/build/intermediates/exploded-aar/com.facebook.fresco/drawee/1.3.0/jars/classes.jar"
+        jar="/home/richas/ReactNative/roomt/roomr-react-native/android/app/build/intermediates/exploded-aar/com.facebook.fresco/fresco/1.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="fe85b87215e405f5917d40ae4960488ac9224b74">
+        <dex dex="/home/richas/ReactNative/roomt/roomr-react-native/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-fresco-1.3.0_57f24f30a55a2f3a7595825837406a20f434708c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/richas/ReactNative/roomt/roomr-react-native/android/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/26.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="a4590fa7eadce322ca893129fdc999074e1aa5bf">
+        <dex dex="/home/richas/ReactNative/roomt/roomr-react-native/android/app/build/intermediates/pre-dexed/debug/com.android.support-support-media-compat-26.0.1_7e75796ee1499873f089b583d0cb6bc36466adfe.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/richas/ReactNative/roomt/roomr-react-native/android/app/build/intermediates/exploded-aar/com.facebook.fresco/fbcore/1.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="37345de2ed2772f385eaeec37a9c2ff0fea99ad7">
+        <dex dex="/home/richas/ReactNative/roomt/roomr-react-native/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-fbcore-1.3.0_2788a70c2d0742306e631eec95ba81b6ff437875.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/richas/ReactNative/roomt/roomr-react-native/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.53.3/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="71e22619df25643022a7f7281461ef5e926141be">
+        <dex dex="/home/richas/ReactNative/roomt/roomr-react-native/android/app/build/intermediates/pre-dexed/debug/com.facebook.react-react-native-0.53.3_b0571530ebd1081747b8247b83fab700b51aa67f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/richas/ReactNative/roomt/roomr-react-native/android/app/build/intermediates/exploded-aar/com.facebook.fresco/drawee/1.3.0/jars/classes.jar"
         jumboMode="false"
         optimize="true"
         revision="23.0.1"
         sha1="c65a2e39d54023bac3aef64a2f0cff89289c7ff6">
-        <dex dex="/home/richas/ReactNative/Roomr/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-drawee-1.3.0_08b7518977bd4b06d258f6553fd64f21211cf10c.jar" />
+        <dex dex="/home/richas/ReactNative/roomt/roomr-react-native/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-drawee-1.3.0_c5efb37eceeb98d04ee7245a95865338eaf4687b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/richas/ReactNative/roomt/roomr-react-native/android/app/build/intermediates/exploded-aar/Roomr/react-native-camera/unspecified/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="beb18a6281c3841196f9966b9c4e746fd4c0e494">
+        <dex dex="/home/richas/ReactNative/roomt/roomr-react-native/android/app/build/intermediates/pre-dexed/debug/Roomr-react-native-camera-unspecified_bbf14255e49631b4967b16db66945e6280adf40e.jar" />
     </item>
     <item
         is-multidex="false"
@@ -98,25 +134,16 @@
         optimize="true"
         revision="23.0.1"
         sha1="53fdf22be10c9d426ec63431c7342895bc642261">
-        <dex dex="/home/richas/ReactNative/Roomr/android/app/build/intermediates/pre-dexed/debug/metadata-extractor-2.9.1_bfddd955b887523a1f8e0223c2f2e899c26b0f43.jar" />
+        <dex dex="/home/richas/ReactNative/roomt/roomr-react-native/android/app/build/intermediates/pre-dexed/debug/metadata-extractor-2.9.1_bfddd955b887523a1f8e0223c2f2e899c26b0f43.jar" />
     </item>
     <item
         is-multidex="false"
-        jar="/home/richas/ReactNative/Roomr/android/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/26.0.1/jars/classes.jar"
+        jar="/home/richas/ReactNative/roomt/roomr-react-native/android/app/build/intermediates/exploded-aar/com.android.support/support-v4/26.0.1/jars/classes.jar"
         jumboMode="false"
         optimize="true"
         revision="23.0.1"
-        sha1="d095503f29a8dedc55b9326ed97a5902a1527ab9">
-        <dex dex="/home/richas/ReactNative/Roomr/android/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-utils-26.0.1_855b598a02e0831dfba6e8906970ae2f0ced808d.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/home/richas/ReactNative/Roomr/android/app/build/intermediates/exploded-aar/Roomr/react-native-splash-screen/unspecified/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="23.0.1"
-        sha1="c2fa0ad1f20205171fad2e07692a58f71bf1de1a">
-        <dex dex="/home/richas/ReactNative/Roomr/android/app/build/intermediates/pre-dexed/debug/Roomr-react-native-splash-screen-unspecified_b8bbfcd59ca061b6344456ff54402f85bcd80776.jar" />
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/home/richas/ReactNative/roomt/roomr-react-native/android/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-26.0.1_763771e6c729bc45444e858da3bf82c0f2b37b8c.jar" />
     </item>
     <item
         is-multidex="false"
@@ -125,25 +152,43 @@
         optimize="true"
         revision="23.0.1"
         sha1="55615fa2582424e38705487d1d3969af8554f637">
-        <dex dex="/home/richas/ReactNative/Roomr/android/app/build/intermediates/pre-dexed/debug/xmpcore-5.1.2_5d44f8ec314553cf5257e49292ebd41b24574528.jar" />
+        <dex dex="/home/richas/ReactNative/roomt/roomr-react-native/android/app/build/intermediates/pre-dexed/debug/xmpcore-5.1.2_5d44f8ec314553cf5257e49292ebd41b24574528.jar" />
     </item>
     <item
         is-multidex="false"
-        jar="/home/richas/ReactNative/Roomr/android/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/23.4.0/jars/classes.jar"
+        jar="/home/richas/ReactNative/roomt/roomr-react-native/android/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/23.4.0/jars/classes.jar"
         jumboMode="false"
         optimize="true"
         revision="23.0.1"
-        sha1="de4db3785756bfb0915a9f59a9b3f2fea7407be4">
-        <dex dex="/home/richas/ReactNative/Roomr/android/app/build/intermediates/pre-dexed/debug/com.android.support-animated-vector-drawable-23.4.0_b2b9ecadba49daafe132efcc734b318ef2c08f36.jar" />
+        sha1="c2c594cace5d83a3227b2b6e658ecbfd586d3ed9">
+        <dex dex="/home/richas/ReactNative/roomt/roomr-react-native/android/app/build/intermediates/pre-dexed/debug/com.android.support-support-vector-drawable-23.4.0_513fb477dc206eefd38e928549942a08d16e0c89.jar" />
     </item>
     <item
         is-multidex="false"
-        jar="/home/richas/ReactNative/Roomr/android/app/build/intermediates/exploded-aar/com.android.support/support-compat/26.0.1/jars/classes.jar"
+        jar="/home/richas/ReactNative/roomt/roomr-react-native/android/app/build/intermediates/exploded-aar/com.facebook.fbui.textlayoutbuilder/textlayoutbuilder/1.0.0/jars/classes.jar"
         jumboMode="false"
         optimize="true"
         revision="23.0.1"
-        sha1="22c673e65215e0764add61e3102946de895439e4">
-        <dex dex="/home/richas/ReactNative/Roomr/android/app/build/intermediates/pre-dexed/debug/com.android.support-support-compat-26.0.1_7d2e688311f6e1cbe104cc3595c27a65df25a3c0.jar" />
+        sha1="f90b593491e4044903f0bbf68dc3fa2790b151b9">
+        <dex dex="/home/richas/ReactNative/roomt/roomr-react-native/android/app/build/intermediates/pre-dexed/debug/com.facebook.fbui.textlayoutbuilder-textlayoutbuilder-1.0.0_a99ef6909992ffa41fa9a8cab27bcc1f34d91300.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/richas/ReactNative/roomt/roomr-react-native/android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/10.2.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="1ac56e5801e986583cbe27f2cce57f626cc7ff93">
+        <dex dex="/home/richas/ReactNative/roomt/roomr-react-native/android/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-basement-10.2.0_3089a4c08e4f12f78879581fbcf475ba8f68bc5a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/richas/ReactNative/roomt/roomr-react-native/android/app/build/intermediates/exploded-aar/Roomr/react-native-splash-screen/unspecified/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="c2fa0ad1f20205171fad2e07692a58f71bf1de1a">
+        <dex dex="/home/richas/ReactNative/roomt/roomr-react-native/android/app/build/intermediates/pre-dexed/debug/Roomr-react-native-splash-screen-unspecified_6e3668bb5d79d654c29214c24b2bcef54fb40dea.jar" />
     </item>
     <item
         is-multidex="false"
@@ -152,7 +197,7 @@
         optimize="true"
         revision="23.0.1"
         sha1="6975da39a7040257bd51d21a231b76c915872d38">
-        <dex dex="/home/richas/ReactNative/Roomr/android/app/build/intermediates/pre-dexed/debug/javax.inject-1_7e83333904675910f1cb0ab85bd8a70c6c8eec28.jar" />
+        <dex dex="/home/richas/ReactNative/roomt/roomr-react-native/android/app/build/intermediates/pre-dexed/debug/javax.inject-1_7e83333904675910f1cb0ab85bd8a70c6c8eec28.jar" />
     </item>
     <item
         is-multidex="false"
@@ -161,43 +206,52 @@
         optimize="true"
         revision="23.0.1"
         sha1="3f9b16b774f2c36cfd86dd2053d0b3059531dacc">
-        <dex dex="/home/richas/ReactNative/Roomr/android/app/build/intermediates/pre-dexed/debug/okhttp-urlconnection-3.6.0_3912c1928c7be1242a5ccab5efed80be5a04d35c.jar" />
+        <dex dex="/home/richas/ReactNative/roomt/roomr-react-native/android/app/build/intermediates/pre-dexed/debug/okhttp-urlconnection-3.6.0_3912c1928c7be1242a5ccab5efed80be5a04d35c.jar" />
     </item>
     <item
         is-multidex="false"
-        jar="/home/richas/ReactNative/Roomr/android/app/build/intermediates/exploded-aar/com.facebook.fresco/fbcore/1.3.0/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="23.0.1"
-        sha1="37345de2ed2772f385eaeec37a9c2ff0fea99ad7">
-        <dex dex="/home/richas/ReactNative/Roomr/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-fbcore-1.3.0_d71e7f3bb952cc9a7f246b564f28aefcc5c24a5f.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/home/richas/ReactNative/Roomr/android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-tasks/10.2.0/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="23.0.1"
-        sha1="bd75f9f0296fe220da6d0ad961831b04541c4452">
-        <dex dex="/home/richas/ReactNative/Roomr/android/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-tasks-10.2.0_f46d96032c102bcc7c4e4f0be3e640805f735987.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/home/richas/ReactNative/Roomr/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline-okhttp3/1.3.0/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="23.0.1"
-        sha1="c03c08c9934b23c8c09c803345ec51a74119127b">
-        <dex dex="/home/richas/ReactNative/Roomr/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-imagepipeline-okhttp3-1.3.0_ec65c5f9461e4f5649622c8e64db45373232dcbc.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/home/richas/ReactNative/Roomr/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.53.3/jars/libs/infer-annotations-4.0.jar"
+        jar="/home/richas/ReactNative/roomt/roomr-react-native/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.53.3/jars/libs/infer-annotations-4.0.jar"
         jumboMode="false"
         optimize="true"
         revision="23.0.1"
         sha1="9809e90be788acdb479b2b44e2112f3295a03068">
-        <dex dex="/home/richas/ReactNative/Roomr/android/app/build/intermediates/pre-dexed/debug/infer-annotations-4.0_3c7c326626b001b61fce37f9d7937b1dbba2cac7.jar" />
+        <dex dex="/home/richas/ReactNative/roomt/roomr-react-native/android/app/build/intermediates/pre-dexed/debug/infer-annotations-4.0_e46cd156bbe5d95c984320982f8ac09d68eb023c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/richas/ReactNative/roomt/roomr-react-native/android/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/26.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="71af915b7f4f7ec0b5f768b365145bb6a5cb9a66">
+        <dex dex="/home/richas/ReactNative/roomt/roomr-react-native/android/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-ui-26.0.1_cf995a2c580f8a514b544dcd8716a312b3c2a5d2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/richas/ReactNative/roomt/roomr-react-native/android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-tasks/10.2.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="bd75f9f0296fe220da6d0ad961831b04541c4452">
+        <dex dex="/home/richas/ReactNative/roomt/roomr-react-native/android/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-tasks-10.2.0_38f24f013f1f0ad8a6c10fa0ddd0614a63c3c957.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/richas/ReactNative/roomt/roomr-react-native/android/app/build/intermediates/exploded-aar/com.android.support/support-fragment/26.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="dff4d8f88fe2c0e57306e6981fd9b90caeead7e3">
+        <dex dex="/home/richas/ReactNative/roomt/roomr-react-native/android/app/build/intermediates/pre-dexed/debug/com.android.support-support-fragment-26.0.1_c47e6e839eaf08f45dc9b4ad9dace27e8aaeabc9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/richas/ReactNative/roomt/roomr-react-native/android/app/build/intermediates/exploded-aar/com.android.support/exifinterface/28.0.0-alpha1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="76de56b9d548911f48a6b2684adbbb8d46fdd0ce">
+        <dex dex="/home/richas/ReactNative/roomt/roomr-react-native/android/app/build/intermediates/pre-dexed/debug/com.android.support-exifinterface-28.0.0-alpha1_34c57bb2a6a8ca98d56e68796d9eb317aefdfc1c.jar" />
     </item>
     <item
         is-multidex="false"
@@ -206,7 +260,7 @@
         optimize="true"
         revision="23.0.1"
         sha1="5871fb60dc68d67da54a663c3fd636a10a532948">
-        <dex dex="/home/richas/ReactNative/Roomr/android/app/build/intermediates/pre-dexed/debug/jsr305-3.0.0_ab4ec6436f0daa5657f0d8ada6c3c0067b9e12b5.jar" />
+        <dex dex="/home/richas/ReactNative/roomt/roomr-react-native/android/app/build/intermediates/pre-dexed/debug/jsr305-3.0.0_ab4ec6436f0daa5657f0d8ada6c3c0067b9e12b5.jar" />
     </item>
     <item
         is-multidex="false"
@@ -215,16 +269,16 @@
         optimize="true"
         revision="23.0.1"
         sha1="f162442a19fff13995fbd51ba414d9ee05579080">
-        <dex dex="/home/richas/ReactNative/Roomr/android/app/build/intermediates/pre-dexed/debug/staticlayout-proxy-1.0_6134149f76c83b0b6b1e308474e93f9706389907.jar" />
+        <dex dex="/home/richas/ReactNative/roomt/roomr-react-native/android/app/build/intermediates/pre-dexed/debug/staticlayout-proxy-1.0_6134149f76c83b0b6b1e308474e93f9706389907.jar" />
     </item>
     <item
         is-multidex="false"
-        jar="/home/richas/ReactNative/Roomr/android/app/build/intermediates/exploded-aar/Roomr/react-native-camera/unspecified/jars/classes.jar"
+        jar="/home/richas/ReactNative/roomt/roomr-react-native/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline/1.3.0/jars/classes.jar"
         jumboMode="false"
         optimize="true"
         revision="23.0.1"
-        sha1="beb18a6281c3841196f9966b9c4e746fd4c0e494">
-        <dex dex="/home/richas/ReactNative/Roomr/android/app/build/intermediates/pre-dexed/debug/Roomr-react-native-camera-unspecified_b964e75c785e4934a8857daae715db8478533160.jar" />
+        sha1="48c7f54c2515a2312d3a4481d10c43fbb807f3af">
+        <dex dex="/home/richas/ReactNative/roomt/roomr-react-native/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-imagepipeline-1.3.0_b12f30993965e92871647635ca1cd9a886100ee3.jar" />
     </item>
     <item
         is-multidex="false"
@@ -233,25 +287,7 @@
         optimize="true"
         revision="23.0.1"
         sha1="d85884acf6810a3bbbecb587f239005cbc846dc4">
-        <dex dex="/home/richas/ReactNative/Roomr/android/app/build/intermediates/pre-dexed/debug/bolts-tasks-1.4.0_688dce7fab423d56ad34e21702c079757f618852.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/home/richas/ReactNative/Roomr/android/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/26.0.1/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="23.0.1"
-        sha1="a4590fa7eadce322ca893129fdc999074e1aa5bf">
-        <dex dex="/home/richas/ReactNative/Roomr/android/app/build/intermediates/pre-dexed/debug/com.android.support-support-media-compat-26.0.1_ef53af5d0c18d5907c7bb1d09286c59271830366.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/home/richas/ReactNative/Roomr/android/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/26.0.1/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="23.0.1"
-        sha1="71af915b7f4f7ec0b5f768b365145bb6a5cb9a66">
-        <dex dex="/home/richas/ReactNative/Roomr/android/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-ui-26.0.1_bf0b429e9954586cc2802980672d36da36c2961e.jar" />
+        <dex dex="/home/richas/ReactNative/roomt/roomr-react-native/android/app/build/intermediates/pre-dexed/debug/bolts-tasks-1.4.0_688dce7fab423d56ad34e21702c079757f618852.jar" />
     </item>
     <item
         is-multidex="false"
@@ -260,7 +296,7 @@
         optimize="true"
         revision="23.0.1"
         sha1="39ded76b5e1ce1c5b2688e1d25cdc20ecee32007">
-        <dex dex="/home/richas/ReactNative/Roomr/android/app/build/intermediates/pre-dexed/debug/support-annotations-28.0.0-alpha1_3213fe3118400b27a09bf678abdf870b84435934.jar" />
+        <dex dex="/home/richas/ReactNative/roomt/roomr-react-native/android/app/build/intermediates/pre-dexed/debug/support-annotations-28.0.0-alpha1_3213fe3118400b27a09bf678abdf870b84435934.jar" />
     </item>
     <item
         is-multidex="false"
@@ -269,70 +305,34 @@
         optimize="true"
         revision="23.0.1"
         sha1="a9283170b7305c8d92d25aff02a6ab7e45d06cbe">
-        <dex dex="/home/richas/ReactNative/Roomr/android/app/build/intermediates/pre-dexed/debug/okio-1.13.0_5606617ff4a6fb2bb7c8eb289ce38fa0e5f66b52.jar" />
+        <dex dex="/home/richas/ReactNative/roomt/roomr-react-native/android/app/build/intermediates/pre-dexed/debug/okio-1.13.0_5606617ff4a6fb2bb7c8eb289ce38fa0e5f66b52.jar" />
     </item>
     <item
         is-multidex="false"
-        jar="/home/richas/ReactNative/Roomr/android/app/build/intermediates/exploded-aar/com.github.react-native-community/cameraview/d5d9b0d925494ef451ce3eef3fdf14cc874d9baa/jars/classes.jar"
+        jar="/home/richas/ReactNative/roomt/roomr-react-native/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline-okhttp3/1.3.0/jars/classes.jar"
         jumboMode="false"
         optimize="true"
         revision="23.0.1"
-        sha1="b4c16f9d50f6e5b420e03126c296c7ca08ad43f8">
-        <dex dex="/home/richas/ReactNative/Roomr/android/app/build/intermediates/pre-dexed/debug/com.github.react-native-community-cameraview-d5d9b0d925494ef451ce3eef3fdf14cc874d9baa_c7154db74a86b9cebfd1c627986944478c2a3866.jar" />
+        sha1="c03c08c9934b23c8c09c803345ec51a74119127b">
+        <dex dex="/home/richas/ReactNative/roomt/roomr-react-native/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-imagepipeline-okhttp3-1.3.0_192bdcb2369c9ab16c87699b5a30012b72f9ee66.jar" />
     </item>
     <item
         is-multidex="false"
-        jar="/home/richas/ReactNative/Roomr/android/app/build/intermediates/exploded-aar/com.facebook.soloader/soloader/0.1.0/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="23.0.1"
-        sha1="8f615bca00639150c9eb6175d4b5471193f70794">
-        <dex dex="/home/richas/ReactNative/Roomr/android/app/build/intermediates/pre-dexed/debug/com.facebook.soloader-soloader-0.1.0_80e308521dd68ffe8daecbc230ca2e3c3a5b0aba.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/home/richas/ReactNative/Roomr/android/app/build/intermediates/exploded-aar/com.android.support/support-v4/26.0.1/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="23.0.1"
-        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
-        <dex dex="/home/richas/ReactNative/Roomr/android/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-26.0.1_b1bef78ee9f497d47cf9ed4d742d170a54cdfaf0.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/home/richas/ReactNative/Roomr/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline-base/1.3.0/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="23.0.1"
-        sha1="72128af126ddd7d6252da9357fe560d3abcdfb0c">
-        <dex dex="/home/richas/ReactNative/Roomr/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-imagepipeline-base-1.3.0_a7b90074030084afe52cee3ae00657ab7801370b.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/home/richas/ReactNative/Roomr/android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-vision/10.2.0/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="23.0.1"
-        sha1="444f9de23145e8caba7bf1c1772acad142ea6013">
-        <dex dex="/home/richas/ReactNative/Roomr/android/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-vision-10.2.0_3d6efd077e3366d3b1beca5c9f86575408f432c7.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/home/richas/ReactNative/Roomr/android/app/build/intermediates/exploded-aar/com.facebook.fbui.textlayoutbuilder/textlayoutbuilder/1.0.0/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="23.0.1"
-        sha1="f90b593491e4044903f0bbf68dc3fa2790b151b9">
-        <dex dex="/home/richas/ReactNative/Roomr/android/app/build/intermediates/pre-dexed/debug/com.facebook.fbui.textlayoutbuilder-textlayoutbuilder-1.0.0_b43c35df76f7c01309490390af9ad0302e1b0a24.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/home/richas/ReactNative/Roomr/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/jars/classes.jar"
+        jar="/home/richas/ReactNative/roomt/roomr-react-native/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/jars/classes.jar"
         jumboMode="false"
         optimize="true"
         revision="23.0.1"
         sha1="548f06de403a9409f00554b3ee12a9fdea0e236c">
-        <dex dex="/home/richas/ReactNative/Roomr/android/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-23.4.0_4471bf59abfcb414598cc23a7d2653fae891320e.jar" />
+        <dex dex="/home/richas/ReactNative/roomt/roomr-react-native/android/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-23.4.0_1e800810e468169f2b35902d7e75fe50484736d4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/richas/ReactNative/roomt/roomr-react-native/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline-base/1.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="72128af126ddd7d6252da9357fe560d3abcdfb0c">
+        <dex dex="/home/richas/ReactNative/roomt/roomr-react-native/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-imagepipeline-base-1.3.0_e42d2348b2c0018cc97a1f53de7ca15cd6c515a7.jar" />
     </item>
     <item
         is-multidex="false"
@@ -341,7 +341,7 @@
         optimize="true"
         revision="23.0.1"
         sha1="2287494d4f5f9f3a9a2bb6980e3f32053721b315">
-        <dex dex="/home/richas/ReactNative/Roomr/android/app/build/intermediates/pre-dexed/debug/core-3.2.1_249aea64952243e5aa39831317100ad0ae5f0a2a.jar" />
+        <dex dex="/home/richas/ReactNative/roomt/roomr-react-native/android/app/build/intermediates/pre-dexed/debug/core-3.2.1_249aea64952243e5aa39831317100ad0ae5f0a2a.jar" />
     </item>
 
 </items>

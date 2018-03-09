@@ -3,7 +3,6 @@ import { StyleSheet, Text, View, ScrollView, TouchableOpacity, TextInput, Image,
 import SearchInput, { createFilter } from 'react-native-search-filter';
 import {Actions} from 'react-native-router-flux';
 import styles from '../styles/commonstyles';
-// import emails from './roomerJson';
 const KEYS_TO_FILTERS = ['id', 'name'];
 
 
@@ -65,7 +64,37 @@ export default class SearchRoomerList extends Component {
     this.setState({ searchTerm: term })
   }
   render() {
-    const filteredEmails = this.state.emails.filter(createFilter(this.state.searchTerm, KEYS_TO_FILTERS))
+    const filteredEmails = this.state.emails.filter(createFilter(this.state.searchTerm, KEYS_TO_FILTERS));
+    let html = '';
+    if(this.state.emails.length>0){
+        html = ( <ScrollView>
+              {filteredEmails.map(email => {
+                  return (
+                  <TouchableOpacity onPress={() => this.searchperson(email.path,email.name)}>
+                      <View>
+                          <View style = {{flex:1, flexDirection:'row', margin:5, paddingLeft:10,
+                              justifyContent:'center'}}>
+                                  <View style={{flex: 0.3,justifyContent:'center'}}>
+                                      <Image source={{uri: email.path}}
+                                       style={{width:70, height:70, borderRadius:35}}/>
+                                  </View>
+                                  
+                                  <View style = {{flex:0.7, justifyContent:'center',}}>
+                                      <Text style={{fontSize:15}}>{email.name}</Text>
+                                  </View>
+                          
+                          </View>
+                          
+                          
+                      
+                      </View>
+                  </TouchableOpacity>
+                  )
+              })}
+          </ScrollView>);
+       }else{
+             html = (<View style={{alignItems:'center',justifyContent:'center'}}><Text>Sorry No persons added till now!</Text></View>)
+          }
     return (
         <ScrollView>
       <View style={stylecss.container}>
@@ -99,31 +128,7 @@ export default class SearchRoomerList extends Component {
 
         <View style={{flex:0.8}}> 
             <View style={{marginTop:10}}></View>
-                <ScrollView>
-                    {filteredEmails.map(email => {
-                        return (
-                        <TouchableOpacity onPress={() => this.searchperson(email.path,email.name)}>
-                            <View>
-                                <View style = {{flex:1, flexDirection:'row', margin:5, paddingLeft:10,
-                                    justifyContent:'center'}}>
-                                        <View style={{flex: 0.3,justifyContent:'center'}}>
-                                            <Image source={{uri: email.path}}
-                                             style={{width:70, height:70, borderRadius:35}}/>
-                                        </View>
-                                        
-                                        <View style = {{flex:0.7, justifyContent:'center',}}>
-                                            <Text style={{fontSize:15}}>{email.name}</Text>
-                                        </View>
-                                
-                                </View>
-                                
-                                
-                            
-                            </View>
-                        </TouchableOpacity>
-                        )
-                    })}
-                </ScrollView>
+            {html}
         </View>
       </View>
                 </ScrollView>
