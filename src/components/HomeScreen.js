@@ -52,7 +52,6 @@ export default class HomeScreen extends Component {
                 </Card>
             </View>
             <View style={{flex:0.5}}>
-            {/* <TouchableOpacity onPress={()=>{Actions.searchroomer()}}>  */}
               <Card
                 flexDirection='column'
                 containerStyle={{ flex:1,backgroundColor:'rgb(244,130,60)', borderRadius: 10 }}
@@ -73,7 +72,6 @@ export default class HomeScreen extends Component {
                 </View>
                 </TouchableOpacity>
                 </Card>
-                {/* </TouchableOpacity> */}
             </View>
             </View >
             <View style={[{flex:0.1},styles.flexcontentmiddle]}>
