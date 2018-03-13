@@ -17,34 +17,34 @@ import SearchRoomer from './SearchRoomerList';
 const Myrouter = () => {
   return (
   <Router>
-    <Stack key="root" hideNavBar>
+    <Stack key="root" >
         <Scene key="createhome"
         component={CreateHome}
-        title="CreateHome"
+        title="CreateHome" hideNavBar
         />
         <Scene key="Createroom"
         component={CreateRoom}
-        title="CreateRoom"
+        title="CreateRoom" hideNavBar
         />
         <Scene key="homescreen"
         component={HomeScreen}
-        title="HomeScreen"
+        title="HomeScreen" hideNavBar
         initial/>
         <Scene key="persons"
         component={Persons}
-        title="Persons"
+        title="Persons" hideNavBar
         />
         <Scene key="addperson"
         component={AddPerson}
-        title="AddPerson"
+        title="AddPerson" hideNavBar
         />
         <Scene key="addroom"
         component={AddRoom}
-        title="AddRoom"
+        title="AddRoom" hideNavBar
         />
-        <Scene key="searchroomer"
+        <Scene key="searchroomer" 
         component={SearchRoomer}
-        title="searchroomer"
+        title="Back"
         />
     </Stack>
   </Router>

@@ -32,8 +32,10 @@ class AddRoom extends Component {
     this.setState({rooms:listOfTasks});
   }
   async _addTask () {
-    // alert(Actions);
-    // AsyncStorage.removeItem('rooms')
+    if(this.state.gender==''||this.state.suitable==''||this.state.date==''||this.state.monthlycost==''){
+      alert('Fill all mandatory fields.');
+      return;
+    }
     const rooms = [...this.state.rooms,
       {
        gender:this.state.gender,
@@ -74,8 +76,8 @@ class AddRoom extends Component {
             <ScrollView>
             <View style={{flex:0.4,backgroundColor:'rgb(247,246,246)'}}>
             <View style={{flex:0.2,flexDirection:'row',marginTop:10}}>
-                <View style={{flex:0.5,marginLeft:40}}><Text style={{color:'black'}}>Suitable for</Text></View>
-                <View style={{flex:0.5}}><Text style={{color:'black'}}>Male or female</Text></View>
+                <View style={{flex:0.5,marginLeft:40}}><Text style={{color:'black'}}>Suitable for<Text style={{color:'red'}}> *</Text></Text></View>
+                <View style={{flex:0.5}}><Text style={{color:'black'}}>Male or female<Text style={{color:'red'}}> *</Text></Text></View>
             </View>
 
 
@@ -109,7 +111,7 @@ class AddRoom extends Component {
             </View>
             
             <View style={{flex:0.1,flexDirection:'row',marginLeft:40,height:30,marginTop:10}}>
-                <Text style={{color:'black'}}>Monthly cost</Text>
+                <Text style={{color:'black'}}>Monthly cost<Text style={{color:'red'}}> *</Text></Text>
             </View>
 
           </View>
@@ -120,8 +122,8 @@ class AddRoom extends Component {
                   onChangeText={(value)=>{this.setState({monthlycost:value})}}
                 />
             </View>
-          <View style={{flex:0.1,marginLeft:40,height:40,flexDirection:'row',alignItems:'center',backgroundColor:'rgb(247,246,246)'}}>
-                <Text style={{color:'black'}}>Security deposit</Text>
+          <View style={{flex:0.1,height:40,flexDirection:'row',alignItems:'center',backgroundColor:'rgb(247,246,246)'}}>
+                <Text style={{color:'black',marginLeft:40,}}>Security deposit</Text>
             </View>
 
           <View style={{flex:0.1,marginLeft:40}}>
@@ -133,7 +135,7 @@ class AddRoom extends Component {
 
           <View style={{flex:0.1,height:40,flexDirection:'row',alignItems:'center',backgroundColor:'rgb(247,246,246)'}}>
                 <View style={{flex:0.5,marginLeft:40}}>
-                <Text style={{color:'black'}}>Available from</Text>
+                <Text style={{color:'black'}}>Available from<Text style={{color:'red'}}> *</Text></Text>
                 </View>
                 <View style={{flex:0.5}}>
                 <Text style={{color:'black'}}>Term length</Text>
@@ -171,7 +173,7 @@ class AddRoom extends Component {
           <View style={{flex:0.1,flexDirection:'row',alignItems:'center'}}>
                 <View style={{flex:0.5,marginLeft:40}}>
                 <TextInput
-                  placeholder="E.g. Downstaires with sunlight in morning"
+                  placeholder="E.g. Downstairs with sunlight in morning"
                   underlineColorAndroid="transparent" 
                   multiline={true}
                   numberOfLines={10}

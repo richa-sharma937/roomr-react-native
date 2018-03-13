@@ -60,6 +60,10 @@ class AddPerson extends Component {
     this.setState({users:listOfUsers});
   }
   async _addPerson () {
+    if(this.state.name==''){
+      alert('Name is mandatory.');
+      return;
+    }
     const users = [...this.state.users,
       {
        name:this.state.name,
@@ -67,7 +71,6 @@ class AddPerson extends Component {
        path:this.state.path
       } ]; 
 
-    console.log(users);
       await AsyncStorage.setItem('users', 
         JSON.stringify(users)); 
       Actions.searchroomer();
